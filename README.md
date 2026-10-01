@@ -159,18 +159,6 @@ smart-agriculture-monitoring-system/
 
 ---
 
-## 👥 Team
-
-| Name | Roll No. | Role |
-|---|---|---|
-| _Add name_ | _Add roll no._ | Circuit & Hardware |
-| _Add name_ | _Add roll no._ | Firmware & Sensor Interfacing |
-| _Add name_ | _Add roll no._ | Testing & Calibration |
-| _Add name_ | _Add roll no._ | Documentation & Presentation |
-
-**Guide:** Megha Godboley, Assistant Professor, Computer Department, SJCEM
-
----
 
 ## 🔮 Future Scope
 
@@ -199,6 +187,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgements
 
-- Dr. Kamal Shah, Principal, SJCEM
 - Dr. Sunny Sall, Head of Department, Computer Engineering, SJCEM
 - Megha Godboley, Project Guide, Assistant Professor, Computer Department, SJCEM
